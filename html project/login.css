@@ -1,0 +1,55 @@
+div.login{
+	width:400px;
+	height:400px;
+	margin-left:550px;
+	margin-right:450px;
+	margin-top:200px;
+	margin-bottom:700px;
+	overflow: hidden;
+	background-color: #A9A9A9;
+	box-sizing:border-box;
+	opacity:0.6;
+}
+div.login:hover{
+	opacity:0.8;
+}
+input[type=text]{
+	border:1px black;
+	border-radius:4px;
+	margin-left:10px;
+}
+input[type=password]{
+	border:1px black;
+	border-radius:4px;
+	margin-left:15px;
+}
+input[type=submit]
+{
+	height:30px;
+	background-color:white;
+	border:1px black;
+	border-radius:4px;
+	margin-left:150px;
+}
+select{
+	width:30%;
+	height:7%;
+	border:none;
+	border-radius:4px;
+	background-color: White;
+}
+body{
+	background-image:url("images\\backgroundlogin.jpg");
+	background-repeat:no repeat;
+}
+	
+.login{
+	margin-left:70px;
+}
+.img2{
+	 margin-top:50px;
+	 margin-left:150px;
+	 margin-bottom:50px;
+}
+	 
+	
